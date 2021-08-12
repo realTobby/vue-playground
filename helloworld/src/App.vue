@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="https://avatars.githubusercontent.com/u/24779607?s=400&u=dbcb6e3b012ee34756d114df139b5e62eb3a21b9&v=4">
-    <HelloWorld msg="VueJS? Follow me on GitHub lol: github.com/realTobby"/>
+    <HelloWorld msg1="This is a vueJS test :)" msg2="github.com/realTobby"/>
   </div>
 </template>
 
